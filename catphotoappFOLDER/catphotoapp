@@ -1,0 +1,17 @@
+<DOCTYPE! html>
+    <head>
+     <html lang="en">
+     <meta charset="UTF-8"
+     <meta name="viewport" content="width=device-width, initial-scale:1.0;">
+    </head>
+        <body>
+             <main>
+               <h1>Cat photo app (from <a target="_blank" href="freecodecamp.org">freecodecamp</a>)</h1>
+            <section>
+            <h2>Cat photos</h2>
+            <p> Everyone <em>loves</em> <a href="https://www.shutterstock.com/image-photo/pretty-bicolor-ragdoll-cat-sitting-facing-2310893603">cute shutterstock</a> cats!</p>
+            <p> Even the <b>ugly</b> <a target="_blank" href="https://www.bing.com/images/search?view=detailV2&ccid=nQEC4yvJ&id=9418D905EF5CE71A443F195DB4B20D55187DD67B&thid=OIP.nQEC4yvJ2_X57rbCK6EvpwHaLH&mediaurl=https%3a%2f%2fi.pinimg.com%2f736x%2f18%2f4b%2f97%2f184b973611e8456b4d6e384795047123.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9d0102e32bc9dbf5f9eeb6c22ba12fa7%3frik%3de9Z9GFUNsrRdGQ%26pid%3dImgRaw%26r%3d0&exph=1104&expw=736&q=cute+cats&simid=608049696575986597&FORM=IRPRST&ck=A19F63238D9E19E82B42076FB43F4ADA&selectedIndex=0&itb=0&adlt=strict&idpp=overlayview&ajaxhist=0&ajaxserp=0">AI</a> cats!</p> <img src="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-04/240401-ai-nightshade-mona-lisa-artists-cs-3ac03c.jpg" alt="this cat.">
+            <p style="color: red;"> I mean, look at this thing! its <b><a href="https://www.bing.com/th?id=OIP.KdcqyIpYiYoeu1dX4qUW6gHaFY&w=293&h=213&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">hideous</a></b> but so <em><a href="https://www.bing.com/th?id=OIP.dkuW1azgEHyB-XWZzjqWQAHaLu&w=198&h=314&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">elegant!</a></em></p>
+             </main>
+        </body>
+</html>
